@@ -1,0 +1,38 @@
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body {
+	font-size: 0;
+}
+
+div {
+	height: 60px;
+}
+
+.container {
+	background-color: blue;
+	border-color: blue;
+}
+
+.row {
+	display: block-inline;
+}
+
+.topo-logomarca, .topo-sair {
+	width: 25%;
+	height: 60px;
+	background-color: orange;
+	float: left;
+}
+
+.topo-nome-aplicacao {
+	width: 50%;
+	height: 60px;
+	background-color: grey;
+	float: left;
+}
+
